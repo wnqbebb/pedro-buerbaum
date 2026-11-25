@@ -1,0 +1,238 @@
+{
+ "style": "pedro-buerbaum",
+ "scenes": [
+  {
+   "id": "w1",
+   "type": "p_word",
+   "start": 1.46,
+   "end": 3.98,
+   "props": {
+    "words": [
+     {
+      "w": "3",
+      "t": 1.46
+     },
+     {
+      "w": "fotos",
+      "t": 1.84
+     }
+    ],
+    "front": true,
+    "y": 0.72
+   }
+  },
+  {
+   "id": "z1",
+   "type": "p_punch",
+   "start": 3.98,
+   "end": 6.42,
+   "props": {}
+  },
+  {
+   "id": "w2",
+   "type": "p_word",
+   "start": 7.38,
+   "end": 9.18,
+   "props": {
+    "serif": true,
+    "words": [
+     {
+      "w": "la",
+      "t": 7.38
+     },
+     {
+      "w": "tercera",
+      "t": 7.4
+     }
+    ],
+    "front": true,
+    "y": 0.72
+   }
+  },
+  {
+   "id": "s1",
+   "type": "p_split",
+   "start": 10.94,
+   "end": 17.4,
+   "props": {
+    "face": {
+     "x": 0.496,
+     "y": 0.349
+    },
+    "graphic": {
+     "kind": "flow",
+     "nodes": [
+      {
+       "label": "de frente",
+       "icon": "1",
+       "t": 10.94,
+       "hot": true
+      },
+      {
+       "label": "luz de día",
+       "icon": "☀",
+       "t": 13.06
+      },
+      {
+       "label": "color real",
+       "icon": "◐",
+       "t": 14.56
+      },
+      {
+       "label": "el largo",
+       "icon": "↕",
+       "t": 15.58
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "w3",
+   "type": "p_word",
+   "start": 18.22,
+   "end": 19.68,
+   "props": {
+    "words": [
+     {
+      "w": "puesta",
+      "t": 18.62
+     }
+    ],
+    "front": true,
+    "y": 0.72
+   }
+  },
+  {
+   "id": "z2",
+   "type": "p_punch",
+   "start": 19.68,
+   "end": 21.78,
+   "props": {
+    "amount": 0.12
+   }
+  },
+  {
+   "id": "w4",
+   "type": "p_word",
+   "start": 23.02,
+   "end": 24.28,
+   "props": {
+    "serif": true,
+    "words": [
+     {
+      "w": "¿cómo",
+      "t": 23.52
+     },
+     {
+      "w": "me",
+      "t": 23.68
+     },
+     {
+      "w": "queda?",
+      "t": 23.88
+     }
+    ],
+    "front": true,
+    "y": 0.719
+   }
+  },
+  {
+   "id": "s2",
+   "type": "p_split",
+   "start": 24.28,
+   "end": 30.22,
+   "props": {
+    "face": {
+     "x": 0.496,
+     "y": 0.349
+    },
+    "graphic": {
+     "kind": "cards",
+     "cards": [
+      {
+       "label": "la costura",
+       "t": 25.64,
+       "placeholder": "A06\ncostura"
+      },
+      {
+       "label": "el botón",
+       "t": 26.26,
+       "placeholder": "A07\nbotón"
+      },
+      {
+       "label": "la tela",
+       "t": 26.82,
+       "placeholder": "A08\ntela"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "z3",
+   "type": "p_punch",
+   "start": 30.22,
+   "end": 33.12,
+   "props": {}
+  },
+  {
+   "id": "f1",
+   "type": "p_full",
+   "start": 33.12,
+   "end": 35.34,
+   "props": {
+    "graphic": {
+     "kind": "number",
+     "count_from": 1,
+     "count_to": 10,
+     "t": 34.3,
+     "label": "mensajes con 1 foto"
+    }
+   }
+  },
+  {
+   "id": "w5",
+   "type": "p_word",
+   "start": 35.34,
+   "end": 37.72,
+   "props": {
+    "words": [
+     {
+      "w": "1",
+      "t": 36.24
+     },
+     {
+      "w": "sola",
+      "t": 36.38
+     },
+     {
+      "w": "vez",
+      "t": 36.6
+     }
+    ],
+    "front": true,
+    "y": 0.636
+   }
+  },
+  {
+   "id": "c1",
+   "type": "p_card",
+   "start": 37.72,
+   "end": 44.3,
+   "props": {
+    "face": {
+     "x": 0.496,
+     "y": 0.349
+    },
+    "title": "comenta «fotos»",
+    "title_t": 38.2
+   }
+  }
+ ],
+ "cuts": [],
+ "captions": {
+  "enabled": true
+ },
+ "assets": []
+}

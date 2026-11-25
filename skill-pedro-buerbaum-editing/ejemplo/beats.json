@@ -1,0 +1,724 @@
+{
+ "title": "Prueba · 3 fotos por prenda (estilo Pedro Buerbaum)",
+ "beats": [
+  {
+   "id": "b01",
+   "start": 0.0,
+   "end": 3.98,
+   "script": "Toda prenda que vende necesita tres fotos y casi todos suben una sola.",
+   "seen": "Gancho: asentamiento de zoom desenfocado y la cifra grande en arena.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra grande arena",
+     "cats": "p_word",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V01-A07",
+     "scenes": [
+      {
+       "id": "w1",
+       "type": "p_word",
+       "start": 1.46,
+       "end": 3.98,
+       "props": {
+        "words": [
+         {
+          "w": "3",
+          "t": 1.46
+         },
+         {
+          "w": "fotos",
+          "t": 1.84
+         }
+        ],
+        "front": true,
+        "y": 0.72
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V04-A15",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 1.393,
+       "end": 3.98,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V02-A11",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 0.0,
+       "end": 3.98,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "toda prenda que vende ",
+        "title_t": 0.3
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "start": 3.98,
+   "end": 7.38,
+   "script": "La prenda colgada en un gancho con la luz del local. Te digo cuáles son.",
+   "seen": "Solo cara: golpe de zoom en la frase con carga.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Golpe de zoom",
+     "cats": "p_punch",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V04-A01",
+     "scenes": [
+      {
+       "id": "z1",
+       "type": "p_punch",
+       "start": 3.98,
+       "end": 6.42,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Palabra grande arena",
+     "cats": "p_word",
+     "desc": "La palabra clave del beat en grande color arena.",
+     "ref": "V04-A27",
+     "scenes": [
+      {
+       "type": "p_word",
+       "start": 3.98,
+       "end": 6.38,
+       "props": {
+        "words": [
+         {
+          "w": "prenda colgada",
+          "t": 3.98
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V03-A02",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 3.98,
+       "end": 7.38,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "la prenda colgada en u",
+        "title_t": 4.28
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "start": 7.38,
+   "end": 10.94,
+   "script": "La tercera es la que casi nadie toma y es la que más preguntas te ahorra.",
+   "seen": "Concepto en serif itálica; luego respiro.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra grande arena",
+     "cats": "p_word",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V04-A05",
+     "scenes": [
+      {
+       "id": "w2",
+       "type": "p_word",
+       "start": 7.38,
+       "end": 9.18,
+       "props": {
+        "serif": true,
+        "words": [
+         {
+          "w": "la",
+          "t": 7.38
+         },
+         {
+          "w": "tercera",
+          "t": 7.4
+         }
+        ],
+        "front": true,
+        "y": 0.72
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V08-A14",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 8.626,
+       "end": 10.94,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V03-A17",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 7.38,
+       "end": 10.94,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "la tercera es la que c",
+        "title_t": 7.68
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "start": 10.94,
+   "end": 17.4,
+   "script": "La primera, la prenda completa de frente con luz de día… Esa responde cómo es.",
+   "seen": "El bloque de gráfico: panel negro arriba, línea fina, un paso por palabra.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Panel con gráfico de línea",
+     "cats": "p_split",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V06-A16",
+     "scenes": [
+      {
+       "id": "s1",
+       "type": "p_split",
+       "start": 10.94,
+       "end": 17.4,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "graphic": {
+         "kind": "flow",
+         "nodes": [
+          {
+           "label": "de frente",
+           "icon": "1",
+           "t": 10.94,
+           "hot": true
+          },
+          {
+           "label": "luz de día",
+           "icon": "☀",
+           "t": 13.06
+          },
+          {
+           "label": "color real",
+           "icon": "◐",
+           "t": 14.56
+          },
+          {
+           "label": "el largo",
+           "icon": "↕",
+           "t": 15.58
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V09-A12",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 13.200999999999999,
+       "end": 17.4,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V03-A08",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 10.94,
+       "end": 17.4,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "la primera",
+        "title_t": 11.24
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "start": 17.4,
+   "end": 24.28,
+   "script": "La segunda, la prenda puesta en una persona… esa responde cómo me queda.",
+   "seen": "Palabra clave grande + golpe de zoom en la opinión + cita en serif.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra grande arena + Golpe de zoom",
+     "cats": "p_word · p_punch",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V04-A30",
+     "scenes": [
+      {
+       "id": "w3",
+       "type": "p_word",
+       "start": 18.22,
+       "end": 19.68,
+       "props": {
+        "words": [
+         {
+          "w": "puesta",
+          "t": 18.62
+         }
+        ],
+        "front": true,
+        "y": 0.72
+       }
+      },
+      {
+       "id": "z2",
+       "type": "p_punch",
+       "start": 19.68,
+       "end": 21.78,
+       "props": {
+        "amount": 0.12
+       }
+      },
+      {
+       "id": "w4",
+       "type": "p_word",
+       "start": 23.02,
+       "end": 24.28,
+       "props": {
+        "serif": true,
+        "words": [
+         {
+          "w": "¿cómo",
+          "t": 23.52
+         },
+         {
+          "w": "me",
+          "t": 23.68
+         },
+         {
+          "w": "queda?",
+          "t": 23.88
+         }
+        ],
+        "front": true,
+        "y": 0.719
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V10-A03",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 19.808,
+       "end": 24.28,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V02-A06",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 17.4,
+       "end": 24.28,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "la segunda",
+        "title_t": 17.7
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "start": 24.28,
+   "end": 30.22,
+   "script": "Y la tercera de cerquita, la costura, el botón, la tela…",
+   "seen": "Tres tarjetas de foto con borde blanco, una por palabra.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Panel con gráfico de línea",
+     "cats": "p_split",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V06-A18",
+     "scenes": [
+      {
+       "id": "s2",
+       "type": "p_split",
+       "start": 24.28,
+       "end": 30.22,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "graphic": {
+         "kind": "cards",
+         "cards": [
+          {
+           "label": "la costura",
+           "t": 25.64,
+           "placeholder": "A06\ncostura"
+          },
+          {
+           "label": "el botón",
+           "t": 26.26,
+           "placeholder": "A07\nbotón"
+          },
+          {
+           "label": "la tela",
+           "t": 26.82,
+           "placeholder": "A08\ntela"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V12-A17",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 26.359,
+       "end": 30.22,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V02-A07",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 24.28,
+       "end": 30.22,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "y la tercera de cerqui",
+        "title_t": 24.580000000000002
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "start": 30.22,
+   "end": 33.12,
+   "script": "Esto si es buena calidad o se me daña en la primera lavada.",
+   "seen": "Cara y zoom: la duda del cliente dicha a cámara.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Golpe de zoom",
+     "cats": "p_punch",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V09-A12",
+     "scenes": [
+      {
+       "id": "z3",
+       "type": "p_punch",
+       "start": 30.22,
+       "end": 33.12,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Palabra grande arena",
+     "cats": "p_word",
+     "desc": "La palabra clave del beat en grande color arena.",
+     "ref": "V05-A38",
+     "scenes": [
+      {
+       "type": "p_word",
+       "start": 30.22,
+       "end": 32.62,
+       "props": {
+        "words": [
+         {
+          "w": "si es",
+          "t": 30.22
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V02-A08",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 30.22,
+       "end": 33.12,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "esto si es buena calid",
+        "title_t": 30.52
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "start": 33.12,
+   "end": 37.72,
+   "script": "Con una foto el cliente te escribe diez veces. Con tres te escribe una sola vez para pedir.",
+   "seen": "Cifra con contador sobre negro y remate en arena.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Gráfico sobre negro + Palabra grande arena",
+     "cats": "p_full · p_word",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V18-A02",
+     "scenes": [
+      {
+       "id": "f1",
+       "type": "p_full",
+       "start": 33.12,
+       "end": 35.34,
+       "props": {
+        "graphic": {
+         "kind": "number",
+         "count_from": 1,
+         "count_to": 10,
+         "t": 34.3,
+         "label": "mensajes con 1 foto"
+        }
+       }
+      },
+      {
+       "id": "w5",
+       "type": "p_word",
+       "start": 35.34,
+       "end": 37.72,
+       "props": {
+        "words": [
+         {
+          "w": "1",
+          "t": 36.24
+         },
+         {
+          "w": "sola",
+          "t": 36.38
+         },
+         {
+          "w": "vez",
+          "t": 36.6
+         }
+        ],
+        "front": true,
+        "y": 0.636
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V18-A10",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 34.73,
+       "end": 37.72,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Video en tarjeta con rótulo",
+     "cats": "Tarjeta · serif",
+     "desc": "El video se encoge a una tarjeta redondeada sobre negro; el concepto del beat va en serif itálica encima.",
+     "ref": "V02-A10",
+     "scenes": [
+      {
+       "type": "p_card",
+       "start": 33.12,
+       "end": 37.72,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "con una foto el client",
+        "title_t": 33.419999999999995
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "start": 37.72,
+   "end": 44.3,
+   "script": "Comenta la palabra en pantalla y te armo gratis un anuncio…",
+   "seen": "Cierre en tarjeta redondeada con rótulo serif.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Video en tarjeta",
+     "cats": "p_card",
+     "desc": "Propuesta principal para este beat, sincronizada a la palabra.",
+     "ref": "V02-A12",
+     "scenes": [
+      {
+       "id": "c1",
+       "type": "p_card",
+       "start": 37.72,
+       "end": 44.3,
+       "props": {
+        "face": {
+         "x": 0.496,
+         "y": 0.349
+        },
+        "title": "comenta «fotos»",
+        "title_t": 38.2
+       }
+      }
+     ]
+    },
+    {
+     "title": "Solo cara con zoom",
+     "cats": "A-roll · golpe de zoom",
+     "desc": "Ella a pantalla completa con el subtítulo fino; un golpe de zoom en la palabra con carga y nada más.",
+     "ref": "V20-A05",
+     "scenes": [
+      {
+       "type": "p_punch",
+       "start": 40.022999999999996,
+       "end": 44.3,
+       "props": {}
+      }
+     ]
+    },
+    {
+     "title": "Palabra grande para comentar",
+     "cats": "p_word",
+     "desc": "Ella a pantalla completa y la palabra «fotos» en grande color arena.",
+     "ref": "V05-A38",
+     "scenes": [
+      {
+       "type": "p_word",
+       "start": 38.2,
+       "end": 41.0,
+       "props": {
+        "words": [
+         {
+          "w": "«fotos»",
+          "t": 38.2
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
